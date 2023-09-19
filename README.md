@@ -20,8 +20,7 @@ Here are the key characteristics and components of a bifurcation diagram:
 Bifurcation diagrams are valuable tools for understanding the behavior of dynamic systems across a range of scientific disciplines, including physics, biology, engineering, and economics. They help researchers identify critical parameter values where qualitative changes in the system's behavior occur, which is essential for gaining insights into the underlying dynamics of complex systems.
 
 
-
-                              ![LogisticMap_BifurcationDiagram.png](LogisticMap_BifurcationDiagram.png)
+![LogisticMap_BifurcationDiagram.png](LogisticMap_BifurcationDiagram.png)
 
 
 
