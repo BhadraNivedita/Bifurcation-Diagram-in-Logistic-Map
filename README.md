@@ -21,7 +21,7 @@ Bifurcation diagrams are valuable tools for understanding the behavior of dynami
 
 
 
-![bifurcation_diagram_logisticmap](bifurcation_diagram_logisticmap.png)
+![LogisticMap_BifurcationDiagram.png](LogisticMap_BifurcationDiagram.png)
 
 
 
